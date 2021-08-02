@@ -1,6 +1,6 @@
 # BAC Gradebook Mobile preview
 
-A college grade system cloned using flutter.
+BAC gradebook system cloned for mobile using flutter.
 
 ## Web version
 
