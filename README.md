@@ -4,5 +4,5 @@ A college grade system cloned using flutter.
 
 ## Web version
 
-- [Lab: Write your first Flutter app](https://gradebook.bac.ac.bw/)
+- [Official Gradebook Page](https://gradebook.bac.ac.bw/)
 
